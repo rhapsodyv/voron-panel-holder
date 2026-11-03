@@ -1,0 +1,137 @@
+{
+ "frame": {
+  "meio-parede-h (direita)": 0.72,
+  "meio-parede-h (esquerda)": 0.72,
+  "meio-parede-h (tras)": 0.72,
+  "meio-parede-h (frente)": 0.72,
+  "canto-parede-hh (5)": 0.0,
+  "canto-parede-hh (6)": 0.0,
+  "canto-parede-hh (7)": 0.0,
+  "canto-parede-hh (8)": 0.0
+ },
+ "frame_entrando": {
+  "meio-parede-h (direita)": 0.0,
+  "meio-parede-h (esquerda)": 0.0,
+  "meio-parede-h (tras)": 0.0,
+  "meio-parede-h (frente)": 0.0
+ },
+ "cunhas": {
+  "meio-parede-h (direita)": 0.0,
+  "meio-parede-h (esquerda)": 0.0,
+  "meio-parede-h (tras)": 0.0,
+  "meio-parede-h (frente)": 0.0
+ },
+ "cunhas_entrando": {
+  "meio-parede-h (direita)": 363.825,
+  "meio-parede-h (esquerda)": 363.825,
+  "meio-parede-h (tras)": 363.825,
+  "meio-parede-h (frente)": 363.825
+ },
+ "entre_pecas": {
+  "meio-parede-h (direita) × meio-parede-h (esquerda)": 0.0,
+  "meio-parede-h (direita) × meio-parede-h (tras)": 0.0,
+  "meio-parede-h (direita) × meio-parede-h (frente)": 0.0,
+  "meio-parede-h (direita) × canto-parede-hh (5)": 0.0,
+  "meio-parede-h (direita) × canto-parede-hh (6)": 0.0,
+  "meio-parede-h (direita) × canto-parede-hh (7)": 0.0,
+  "meio-parede-h (direita) × canto-parede-hh (8)": 0.0,
+  "meio-parede-h (esquerda) × meio-parede-h (tras)": 0.0,
+  "meio-parede-h (esquerda) × meio-parede-h (frente)": 0.0,
+  "meio-parede-h (esquerda) × canto-parede-hh (5)": 0.0,
+  "meio-parede-h (esquerda) × canto-parede-hh (6)": 0.0,
+  "meio-parede-h (esquerda) × canto-parede-hh (7)": 0.0,
+  "meio-parede-h (esquerda) × canto-parede-hh (8)": 0.0,
+  "meio-parede-h (tras) × meio-parede-h (frente)": 0.0,
+  "meio-parede-h (tras) × canto-parede-hh (5)": 0.0,
+  "meio-parede-h (tras) × canto-parede-hh (6)": 0.0,
+  "meio-parede-h (tras) × canto-parede-hh (7)": 0.0,
+  "meio-parede-h (tras) × canto-parede-hh (8)": 0.0,
+  "meio-parede-h (frente) × canto-parede-hh (5)": 0.0,
+  "meio-parede-h (frente) × canto-parede-hh (6)": 0.0,
+  "meio-parede-h (frente) × canto-parede-hh (7)": 0.0,
+  "meio-parede-h (frente) × canto-parede-hh (8)": 0.0,
+  "canto-parede-hh (5) × canto-parede-hh (6)": 0.0,
+  "canto-parede-hh (5) × canto-parede-hh (7)": 0.0,
+  "canto-parede-hh (5) × canto-parede-hh (8)": 0.0,
+  "canto-parede-hh (6) × canto-parede-hh (7)": 0.0,
+  "canto-parede-hh (6) × canto-parede-hh (8)": 0.0,
+  "canto-parede-hh (7) × canto-parede-hh (8)": 0.0
+ },
+ "entre_pecas_entrando": {
+  "meio-parede-h (direita) (entrando) × meio-parede-h (esquerda)": 0.0,
+  "meio-parede-h (esquerda) (entrando) × meio-parede-h (direita)": 0.0,
+  "meio-parede-h (direita) (entrando) × meio-parede-h (tras)": 0.0,
+  "meio-parede-h (tras) (entrando) × meio-parede-h (direita)": 0.0,
+  "meio-parede-h (direita) (entrando) × meio-parede-h (frente)": 0.0,
+  "meio-parede-h (frente) (entrando) × meio-parede-h (direita)": 0.0,
+  "meio-parede-h (direita) (entrando) × canto-parede-hh (5)": 0.0,
+  "meio-parede-h (direita) (entrando) × canto-parede-hh (6)": 0.0,
+  "meio-parede-h (direita) (entrando) × canto-parede-hh (7)": 0.0,
+  "meio-parede-h (direita) (entrando) × canto-parede-hh (8)": 0.0,
+  "meio-parede-h (esquerda) (entrando) × meio-parede-h (tras)": 0.0,
+  "meio-parede-h (tras) (entrando) × meio-parede-h (esquerda)": 0.0,
+  "meio-parede-h (esquerda) (entrando) × meio-parede-h (frente)": 0.0,
+  "meio-parede-h (frente) (entrando) × meio-parede-h (esquerda)": 0.0,
+  "meio-parede-h (esquerda) (entrando) × canto-parede-hh (5)": 0.0,
+  "meio-parede-h (esquerda) (entrando) × canto-parede-hh (6)": 0.0,
+  "meio-parede-h (esquerda) (entrando) × canto-parede-hh (7)": 0.0,
+  "meio-parede-h (esquerda) (entrando) × canto-parede-hh (8)": 0.0,
+  "meio-parede-h (tras) (entrando) × meio-parede-h (frente)": 0.0,
+  "meio-parede-h (frente) (entrando) × meio-parede-h (tras)": 0.0,
+  "meio-parede-h (tras) (entrando) × canto-parede-hh (5)": 0.0,
+  "meio-parede-h (tras) (entrando) × canto-parede-hh (6)": 0.0,
+  "meio-parede-h (tras) (entrando) × canto-parede-hh (7)": 0.0,
+  "meio-parede-h (tras) (entrando) × canto-parede-hh (8)": 0.0,
+  "meio-parede-h (frente) (entrando) × canto-parede-hh (5)": 0.0,
+  "meio-parede-h (frente) (entrando) × canto-parede-hh (6)": 0.0,
+  "meio-parede-h (frente) (entrando) × canto-parede-hh (7)": 0.0,
+  "meio-parede-h (frente) (entrando) × canto-parede-hh (8)": 0.0
+ },
+ "curso": {
+  "0 mm": [
+   0.0,
+   0.0
+  ],
+  "1 mm": [
+   0.0,
+   0.0
+  ],
+  "2 mm": [
+   0.0,
+   0.0
+  ],
+  "3 mm": [
+   0.0,
+   0.0
+  ],
+  "4 mm": [
+   0.0,
+   0.0
+  ],
+  "5 mm": [
+   0.0,
+   0.0
+  ],
+  "6 mm": [
+   0.0,
+   0.0
+  ],
+  "7 mm": [
+   0.0,
+   0.0
+  ],
+  "8 mm": [
+   0.0,
+   0.0
+  ],
+  "9 mm": [
+   0.0,
+   0.0
+  ],
+  "10 mm": [
+   0.0,
+   0.0
+  ]
+ },
+ "curso_meio": "meio-parede-h"
+}

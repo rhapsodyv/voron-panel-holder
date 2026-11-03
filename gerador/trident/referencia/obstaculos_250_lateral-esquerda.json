@@ -1,0 +1,44 @@
+{
+ "frente|fora|Gantry|Foam Tape (3mm, optional)": {
+  "vol": 48.6,
+  "ao_longo": [
+   -157.0,
+   -151.0
+  ]
+ },
+ "tras|fora|Gantry|Foam Tape (3mm, optional)": {
+  "vol": 48.6,
+  "ao_longo": [
+   -157.0,
+   -151.0
+  ]
+ },
+ "frente|rasgo|Skirt|Skirt_Corner_B": {
+  "vol": 33.0,
+  "ao_longo": [
+   -521.0,
+   -520.0
+  ]
+ },
+ "tras|rasgo|Skirt|Skirt_Corner_A": {
+  "vol": 33.0,
+  "ao_longo": [
+   -521.0,
+   -520.0
+  ]
+ },
+ "base|fora|Skirt|Fan Grill B": {
+  "vol": 184.5,
+  "ao_longo": [
+   105.8,
+   164.2
+  ]
+ },
+ "base|fora|Skirt|Fan Grill A": {
+  "vol": 184.5,
+  "ao_longo": [
+   225.8,
+   284.2
+  ]
+ }
+}

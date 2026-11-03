@@ -1,0 +1,87 @@
+{
+ "fonte": "Voron, logo do panel-holder-v11 (Body249): hex\u00e1gono com tr\u00eas cortes diagonais, 0,4 mm de espessura na face externa da tampa do meio do top hat",
+ "unidade": "mm; (s, ao_longo): s no sistema dos perfis (borda externa do frame em s = 7,5), ao_longo a partir do centro da tampa",
+ "espessura": 0.4,
+ "externo": [
+  [
+   3.6967,
+   -31.6
+  ],
+  [
+   1.0986,
+   -27.1
+  ],
+  [
+   -4.0975,
+   -27.1
+  ],
+  [
+   -6.6956,
+   -31.6
+  ],
+  [
+   -4.0975,
+   -36.1
+  ],
+  [
+   1.0986,
+   -36.1
+  ]
+ ],
+ "furos": [
+  [
+   [
+    1.3686,
+    -30.5936
+   ],
+   [
+    -4.3675,
+    -33.9054
+   ],
+   [
+    -4.3675,
+    -32.6064
+   ],
+   [
+    1.3686,
+    -29.2946
+   ]
+  ],
+  [
+   [
+    -1.4994,
+    -28.3524
+   ],
+   [
+    -1.4994,
+    -29.6514
+   ],
+   [
+    -4.3675,
+    -31.3073
+   ],
+   [
+    -4.3675,
+    -30.0083
+   ]
+  ],
+  [
+   [
+    1.3686,
+    -33.1917
+   ],
+   [
+    -1.4994,
+    -34.8476
+   ],
+   [
+    -1.4994,
+    -33.5486
+   ],
+   [
+    1.3686,
+    -31.8927
+   ]
+  ]
+ ]
+}

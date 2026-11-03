@@ -1,0 +1,174 @@
+{
+ "fonte": "Trident 350 montado das medidas (topologia do CAD Trident_Assembly, uma 250): HFSB5-2020; coordenadas centradas, z = 0 no p\u00e9 do frame, traseira em +y (mm)",
+ "membros": [
+  {
+   "nome": "poste frente direita",
+   "eixo": "Z",
+   "comprimento": 500.0,
+   "bb": [
+    235.0,
+    -255.0,
+    0.0,
+    255.0,
+    -235.0,
+    500.0
+   ]
+  },
+  {
+   "nome": "poste frente esquerda",
+   "eixo": "Z",
+   "comprimento": 500.0,
+   "bb": [
+    -255.0,
+    -255.0,
+    0.0,
+    -235.0,
+    -235.0,
+    500.0
+   ]
+  },
+  {
+   "nome": "poste tr\u00e1s esquerda",
+   "eixo": "Z",
+   "comprimento": 500.0,
+   "bb": [
+    -255.0,
+    235.0,
+    0.0,
+    -235.0,
+    255.0,
+    500.0
+   ]
+  },
+  {
+   "nome": "poste tr\u00e1s direita",
+   "eixo": "Z",
+   "comprimento": 500.0,
+   "bb": [
+    235.0,
+    235.0,
+    0.0,
+    255.0,
+    255.0,
+    500.0
+   ]
+  },
+  {
+   "nome": "barra frente baixo",
+   "eixo": "X",
+   "comprimento": 470.0,
+   "bb": [
+    -235.0,
+    -255.0,
+    0.0,
+    235.0,
+    -235.0,
+    20.0
+   ]
+  },
+  {
+   "nome": "barra tr\u00e1s baixo",
+   "eixo": "X",
+   "comprimento": 470.0,
+   "bb": [
+    -235.0,
+    235.0,
+    0.0,
+    235.0,
+    255.0,
+    20.0
+   ]
+  },
+  {
+   "nome": "barra esquerda baixo",
+   "eixo": "Y",
+   "comprimento": 470.0,
+   "bb": [
+    -255.0,
+    -235.0,
+    0.0,
+    -235.0,
+    235.0,
+    20.0
+   ]
+  },
+  {
+   "nome": "barra direita baixo",
+   "eixo": "Y",
+   "comprimento": 470.0,
+   "bb": [
+    235.0,
+    -235.0,
+    0.0,
+    255.0,
+    235.0,
+    20.0
+   ]
+  },
+  {
+   "nome": "barra frente cima",
+   "eixo": "X",
+   "comprimento": 470.0,
+   "bb": [
+    -235.0,
+    -255.0,
+    480.0,
+    235.0,
+    -235.0,
+    500.0
+   ]
+  },
+  {
+   "nome": "barra tr\u00e1s cima",
+   "eixo": "X",
+   "comprimento": 470.0,
+   "bb": [
+    -235.0,
+    235.0,
+    480.0,
+    235.0,
+    255.0,
+    500.0
+   ]
+  },
+  {
+   "nome": "barra esquerda cima",
+   "eixo": "Y",
+   "comprimento": 470.0,
+   "bb": [
+    -255.0,
+    -235.0,
+    480.0,
+    -235.0,
+    235.0,
+    500.0
+   ]
+  },
+  {
+   "nome": "barra direita cima",
+   "eixo": "Y",
+   "comprimento": 470.0,
+   "bb": [
+    235.0,
+    -235.0,
+    480.0,
+    255.0,
+    235.0,
+    500.0
+   ]
+  },
+  {
+   "nome": "poste do meio da traseira",
+   "eixo": "Z",
+   "comprimento": 330.0,
+   "bb": [
+    -10.0,
+    235.0,
+    20.0,
+    10.0,
+    255.0,
+    350.0
+   ]
+  }
+ ]
+}

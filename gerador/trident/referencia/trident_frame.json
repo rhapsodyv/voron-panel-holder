@@ -1,0 +1,185 @@
+{
+ "fonte": "Trident_Assembly v1 (Fusion, projeto Voron): extrus\u00c3\u00b5es HFSB5-2020 do frame, caixas em mm nas coordenadas do CAD",
+ "membros": [
+  {
+   "nome": "HFSB5-2020-500-LCP-RCP-AV360 - B Extrusion:1",
+   "grupo": "Corner Extrusions:1",
+   "bb": [
+    -10.01,
+    -10.01,
+    -520.01,
+    10.01,
+    10.01,
+    -19.99
+   ]
+  },
+  {
+   "nome": "HFSB5-2020-500-LCP-RCP-AV360 - B Extrusion:2",
+   "grupo": "Corner Extrusions:1",
+   "bb": [
+    -10.01,
+    379.99,
+    -520.01,
+    10.01,
+    400.01,
+    -19.99
+   ]
+  },
+  {
+   "nome": "HFSB5-2020-500-LCP-RCP-AV360 - B Extrusion:3",
+   "grupo": "Corner Extrusions:1",
+   "bb": [
+    -400.01,
+    379.99,
+    -520.01,
+    -379.99,
+    400.01,
+    -19.99
+   ]
+  },
+  {
+   "nome": "HFSB5-2020-500-LCP-RCP-AV360 - B Extrusion:4",
+   "grupo": "Corner Extrusions:1",
+   "bb": [
+    -400.01,
+    -10.01,
+    -520.01,
+    -379.99,
+    10.01,
+    -19.99
+   ]
+  },
+  {
+   "nome": "HFSB5-2020-370-TPW-A Extrusion:3",
+   "grupo": "Bottom Extrusions:1",
+   "bb": [
+    -380.01,
+    -10.01,
+    -520.01,
+    -9.99,
+    10.01,
+    -499.99
+   ]
+  },
+  {
+   "nome": "HFSB5-2020-370-AH185-TPW-C Extrusion:1",
+   "grupo": "Bottom Extrusions:1",
+   "bb": [
+    -380.01,
+    379.99,
+    -520.01,
+    -9.99,
+    400.01,
+    -499.99
+   ]
+  },
+  {
+   "nome": "HFSB5-2020-370-TPW-A Extrusion:4",
+   "grupo": "Bottom Extrusions:1",
+   "bb": [
+    -400.01,
+    9.99,
+    -520.01,
+    -379.99,
+    380.01,
+    -499.99
+   ]
+  },
+  {
+   "nome": "HFSB5-2020-370-TPW-A Extrusion:5",
+   "grupo": "Bottom Extrusions:1",
+   "bb": [
+    -10.01,
+    9.99,
+    -520.01,
+    10.01,
+    380.01,
+    -499.99
+   ]
+  },
+  {
+   "nome": "HFSB5-2020-370-TPW-A Extrusion:6",
+   "grupo": "Top Extrusions:1",
+   "bb": [
+    -380.01,
+    -10.01,
+    -40.01,
+    -9.99,
+    10.01,
+    -19.99
+   ]
+  },
+  {
+   "nome": "HFSB5-2020-370-TPW-A Extrusion:7",
+   "grupo": "Top Extrusions:1",
+   "bb": [
+    -10.01,
+    9.99,
+    -40.01,
+    10.01,
+    380.01,
+    -19.99
+   ]
+  },
+  {
+   "nome": "HFSB5-2020-370-TPW-A Extrusion:8",
+   "grupo": "Top Extrusions:1",
+   "bb": [
+    -380.01,
+    379.99,
+    -40.01,
+    -9.99,
+    400.01,
+    -19.99
+   ]
+  },
+  {
+   "nome": "HFSB5-2020-370-TPW-A Extrusion:9",
+   "grupo": "Top Extrusions:1",
+   "bb": [
+    -400.01,
+    9.99,
+    -40.01,
+    -379.99,
+    380.01,
+    -19.99
+   ]
+  },
+  {
+   "nome": "HFSB5-2020-330-LTP-H Extrusion:1",
+   "grupo": "Rear Extrusion:1",
+   "bb": [
+    -205.01,
+    379.99,
+    -500.01,
+    -184.99,
+    400.01,
+    -169.99
+   ]
+  },
+  {
+   "nome": "HFSB5-2020-370-AH185-F Extrusion:1",
+   "grupo": "Bed Extrusions:1",
+   "bb": [
+    -380.01,
+    60.79,
+    -253.36,
+    -9.99,
+    80.81,
+    -233.34
+   ]
+  },
+  {
+   "nome": "HFSB5-2020-232-LTP-G Extrusion:1",
+   "grupo": "Bed Extrusions:1",
+   "bb": [
+    -204.91,
+    80.69,
+    -253.36,
+    -184.89,
+    312.71,
+    -233.34
+   ]
+  }
+ ]
+}

@@ -1,0 +1,77 @@
+{
+ "lateral-direita/frente": [
+  "fora:Gantry/Foam Tape (3mm, optional) -157..-151 (49 mm3)"
+ ],
+ "lateral-direita/tras": [
+  "fora:Gantry/Foam Tape (3mm, optional) -157..-151 (49 mm3)"
+ ],
+ "lateral-direita/base": [
+  "fora:Skirt/Fan Grill A 106..165 (184 mm3)",
+  "fora:Skirt/Fan Grill B 226..285 (184 mm3)"
+ ],
+ "lateral-direita/topo": [],
+ "lateral-esquerda/frente": [
+  "fora:Gantry/Foam Tape (3mm, optional) -157..-151 (49 mm3)"
+ ],
+ "lateral-esquerda/tras": [
+  "fora:Gantry/Foam Tape (3mm, optional) -157..-151 (49 mm3)"
+ ],
+ "lateral-esquerda/base": [
+  "fora:Skirt/Fan Grill B 106..164 (184 mm3)",
+  "fora:Skirt/Fan Grill A 226..284 (184 mm3)"
+ ],
+ "lateral-esquerda/topo": [],
+ "traseira/direita": [
+  "fora:Spool Holder/Spool_Holder -143..-97 (4690 mm3)",
+  "fora:Spool Holder/PFTE insert -113..-109 (38 mm3)",
+  "fora:Spool Holder/PFTE insert -131..-127 (38 mm3)",
+  "rasgo:Frame/2020 Drop-in T-nut, M3 -128..-116 (250 mm3)",
+  "rasgo:Spool Holder/Spool_Holder -143..-97 (605 mm3)"
+ ],
+ "traseira/esquerda": [],
+ "traseira/meio": [
+  "fora:Exhaust Filter Assembly/Filter Element -137..-72 (8348 mm3)",
+  "fora:Exhaust Filter Assembly/VHB Mount tape -184..-179 (64 mm3)",
+  "fora:Exhaust Filter Assembly/Exhaust Housing -184..-40 (965 mm3)",
+  "fora:Exhaust Filter Assembly/Exhaust Grill -72..-40 (721 mm3)",
+  "fora:Exhaust Filter Assembly/PTFE_Tube (4x3mm) -57..-53 (48 mm3)",
+  "fora:Exhaust Filter Assembly/6020 Fan -187..-183 (100 mm3)",
+  "fora:Exhaust Filter Assembly/6020 Fan -187..-183 (100 mm3)",
+  "rasgo:Gantry/A_Belt -158..-152 (35 mm3)",
+  "rasgo:Gantry/B_Belt -168..-162 (35 mm3)",
+  "rasgo:Skirt/250_Rear -521..-520 (33 mm3)",
+  "rasgo:Skirt/300_Rear -521..-520 (33 mm3)",
+  "rasgo:Skirt/350_Rear -521..-520 (33 mm3)",
+  "rasgo:Exhaust Filter Assembly/Exhaust Grill -78..-40 (141 mm3)",
+  "rasgo:Exhaust Filter Assembly/PTFE_Tube (4x3mm) -57..-53 (19 mm3)"
+ ],
+ "traseira/base": [],
+ "traseira/topo": [
+  "fora:Exhaust Filter Assembly/Exhaust Housing -272..-118 (1395 mm3)",
+  "fora:Exhaust Filter Assembly/Exhaust Grill -262..-128 (780 mm3)",
+  "fora:Exhaust Filter Assembly/M5x10 BHCS -137..-127 (199 mm3)",
+  "fora:Exhaust Filter Assembly/Exhaust Mount -142..-122 (1416 mm3)",
+  "fora:Exhaust Filter Assembly/M5x10 BHCS -263..-253 (199 mm3)",
+  "fora:Exhaust Filter Assembly/Exhaust Mount (1) -268..-248 (1416 mm3)",
+  "fora:Bowden Tube Holder/Bowden Tube Holder -121..-97 (992 mm3)",
+  "rasgo:Exhaust Filter Assembly/M5x10 BHCS -134..-129 (109 mm3)",
+  "rasgo:Exhaust Filter Assembly/M5x10 BHCS -261..-256 (109 mm3)"
+ ],
+ "topo/direita": [],
+ "topo/esquerda": [],
+ "topo/frente": [],
+ "topo/tras": [
+  "fora:Bowden Tube Holder/M3x8 SHCS -112..-106 (87 mm3)",
+  "fora:Bowden Tube Holder/Bowden Tube Holder -121..-97 (1373 mm3)",
+  "rasgo:Bowden Tube Holder/M3x8 SHCS -110..-107 (25 mm3)",
+  "rasgo:Bowden Tube Holder/M3 Hammerhead T-Nut -112..-106 (120 mm3)",
+  "rasgo:Bowden Tube Holder/Bowden Tube Holder -121..-97 (372 mm3)"
+ ],
+ "frente/direita": [],
+ "frente/esquerda": [],
+ "frente/meio": [
+  "rasgo:Skirt/LCD Case Hinge -521..-520 (33 mm3)"
+ ],
+ "frente/base": [],
+ "frente/topo": []
+}

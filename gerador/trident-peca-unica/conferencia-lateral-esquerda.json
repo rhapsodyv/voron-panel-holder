@@ -1,0 +1,137 @@
+{
+ "frame": {
+  "meio-base-h (base)": 0.72,
+  "meio-parede-h (topo)": 0.72,
+  "meio-parede-v (frente)": 0.72,
+  "meio-parede-v-espelho (tras)": 0.72,
+  "canto-base-hv (5)": 0.0,
+  "canto-lat-esq-dobradica-base (6)": 0.0,
+  "canto-parede-vh (7)": 0.0,
+  "canto-lat-esq-dobradica-topo (8)": 0.0
+ },
+ "frame_entrando": {
+  "meio-base-h (base)": 0.0,
+  "meio-parede-h (topo)": 0.0,
+  "meio-parede-v (frente)": 0.0,
+  "meio-parede-v-espelho (tras)": 0.0
+ },
+ "cunhas": {
+  "meio-base-h (base)": 0.0,
+  "meio-parede-h (topo)": 0.0,
+  "meio-parede-v (frente)": 0.0,
+  "meio-parede-v-espelho (tras)": 0.0
+ },
+ "cunhas_entrando": {
+  "meio-base-h (base)": 0.0,
+  "meio-parede-h (topo)": 363.825,
+  "meio-parede-v (frente)": 350.35,
+  "meio-parede-v-espelho (tras)": 350.35
+ },
+ "entre_pecas": {
+  "meio-base-h (base) × meio-parede-h (topo)": 0.0,
+  "meio-base-h (base) × meio-parede-v (frente)": 0.0,
+  "meio-base-h (base) × meio-parede-v-espelho (tras)": 0.0,
+  "meio-base-h (base) × canto-base-hv (5)": 0.0,
+  "meio-base-h (base) × canto-lat-esq-dobradica-base (6)": 0.0,
+  "meio-base-h (base) × canto-parede-vh (7)": 0.0,
+  "meio-base-h (base) × canto-lat-esq-dobradica-topo (8)": 0.0,
+  "meio-parede-h (topo) × meio-parede-v (frente)": 0.0,
+  "meio-parede-h (topo) × meio-parede-v-espelho (tras)": 0.0,
+  "meio-parede-h (topo) × canto-base-hv (5)": 0.0,
+  "meio-parede-h (topo) × canto-lat-esq-dobradica-base (6)": 0.0,
+  "meio-parede-h (topo) × canto-parede-vh (7)": 0.0,
+  "meio-parede-h (topo) × canto-lat-esq-dobradica-topo (8)": 0.0,
+  "meio-parede-v (frente) × meio-parede-v-espelho (tras)": 0.0,
+  "meio-parede-v (frente) × canto-base-hv (5)": 0.0,
+  "meio-parede-v (frente) × canto-lat-esq-dobradica-base (6)": 0.0,
+  "meio-parede-v (frente) × canto-parede-vh (7)": 0.0,
+  "meio-parede-v (frente) × canto-lat-esq-dobradica-topo (8)": 0.0,
+  "meio-parede-v-espelho (tras) × canto-base-hv (5)": 0.0,
+  "meio-parede-v-espelho (tras) × canto-lat-esq-dobradica-base (6)": 0.0,
+  "meio-parede-v-espelho (tras) × canto-parede-vh (7)": 0.0,
+  "meio-parede-v-espelho (tras) × canto-lat-esq-dobradica-topo (8)": 0.0,
+  "canto-base-hv (5) × canto-lat-esq-dobradica-base (6)": 0.0,
+  "canto-base-hv (5) × canto-parede-vh (7)": 0.0,
+  "canto-base-hv (5) × canto-lat-esq-dobradica-topo (8)": 0.0,
+  "canto-lat-esq-dobradica-base (6) × canto-parede-vh (7)": 0.0,
+  "canto-lat-esq-dobradica-base (6) × canto-lat-esq-dobradica-topo (8)": 0.0,
+  "canto-parede-vh (7) × canto-lat-esq-dobradica-topo (8)": 0.0
+ },
+ "entre_pecas_entrando": {
+  "meio-base-h (base) (entrando) × meio-parede-h (topo)": 0.0,
+  "meio-parede-h (topo) (entrando) × meio-base-h (base)": 0.0,
+  "meio-base-h (base) (entrando) × meio-parede-v (frente)": 0.0,
+  "meio-parede-v (frente) (entrando) × meio-base-h (base)": 0.0,
+  "meio-base-h (base) (entrando) × meio-parede-v-espelho (tras)": 0.0,
+  "meio-parede-v-espelho (tras) (entrando) × meio-base-h (base)": 0.0,
+  "meio-base-h (base) (entrando) × canto-base-hv (5)": 0.0,
+  "meio-base-h (base) (entrando) × canto-lat-esq-dobradica-base (6)": 0.0,
+  "meio-base-h (base) (entrando) × canto-parede-vh (7)": 0.0,
+  "meio-base-h (base) (entrando) × canto-lat-esq-dobradica-topo (8)": 0.0,
+  "meio-parede-h (topo) (entrando) × meio-parede-v (frente)": 0.0,
+  "meio-parede-v (frente) (entrando) × meio-parede-h (topo)": 0.0,
+  "meio-parede-h (topo) (entrando) × meio-parede-v-espelho (tras)": 0.0,
+  "meio-parede-v-espelho (tras) (entrando) × meio-parede-h (topo)": 0.0,
+  "meio-parede-h (topo) (entrando) × canto-base-hv (5)": 0.0,
+  "meio-parede-h (topo) (entrando) × canto-lat-esq-dobradica-base (6)": 0.0,
+  "meio-parede-h (topo) (entrando) × canto-parede-vh (7)": 0.0,
+  "meio-parede-h (topo) (entrando) × canto-lat-esq-dobradica-topo (8)": 0.0,
+  "meio-parede-v (frente) (entrando) × meio-parede-v-espelho (tras)": 0.0,
+  "meio-parede-v-espelho (tras) (entrando) × meio-parede-v (frente)": 0.0,
+  "meio-parede-v (frente) (entrando) × canto-base-hv (5)": 0.0,
+  "meio-parede-v (frente) (entrando) × canto-lat-esq-dobradica-base (6)": 0.0,
+  "meio-parede-v (frente) (entrando) × canto-parede-vh (7)": 0.0,
+  "meio-parede-v (frente) (entrando) × canto-lat-esq-dobradica-topo (8)": 0.0,
+  "meio-parede-v-espelho (tras) (entrando) × canto-base-hv (5)": 0.0,
+  "meio-parede-v-espelho (tras) (entrando) × canto-lat-esq-dobradica-base (6)": 0.0,
+  "meio-parede-v-espelho (tras) (entrando) × canto-parede-vh (7)": 0.0,
+  "meio-parede-v-espelho (tras) (entrando) × canto-lat-esq-dobradica-topo (8)": 0.0
+ },
+ "curso": {
+  "0 mm": [
+   0.0,
+   0.0
+  ],
+  "1 mm": [
+   0.0,
+   0.0
+  ],
+  "2 mm": [
+   0.0,
+   0.0
+  ],
+  "3 mm": [
+   0.0,
+   0.0
+  ],
+  "4 mm": [
+   0.0,
+   0.0
+  ],
+  "5 mm": [
+   0.0,
+   0.0
+  ],
+  "6 mm": [
+   0.0,
+   0.0
+  ],
+  "7 mm": [
+   0.0,
+   0.0
+  ],
+  "8 mm": [
+   0.0,
+   0.0
+  ],
+  "9 mm": [
+   0.0,
+   0.0
+  ],
+  "10 mm": [
+   0.0,
+   0.0
+  ]
+ },
+ "curso_meio": "meio-base-h"
+}

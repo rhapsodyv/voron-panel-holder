@@ -1,0 +1,460 @@
+{
+ "interferencia": {
+  "lateral-direita": {
+   "clip-padrao-h1:1 × frame:1515_200mm - E:2": [
+    0.0365,
+    0.002,
+    null
+   ],
+   "clip-padrao-h2:1 × frame:1515_200mm - E:2": [
+    0.0731,
+    0.002,
+    null
+   ],
+   "clip-padrao-h2:2 × frame:1515_200mm - E:2": [
+    0.0731,
+    0.002,
+    null
+   ],
+   "clip-padrao-h1:2 × frame:1515_200mm - E:2": [
+    0.0365,
+    0.002,
+    null
+   ],
+   "clip-parede-h1:1 × frame:1515_200mm - B:2": [
+    0.0365,
+    0.002,
+    null
+   ],
+   "clip-parede-h2:1 × frame:1515_200mm - B:2": [
+    0.0731,
+    0.002,
+    null
+   ],
+   "clip-parede-h2:2 × frame:1515_200mm - B:2": [
+    0.0731,
+    0.002,
+    null
+   ],
+   "clip-parede-h1:2 × frame:1515_200mm - B:2": [
+    0.0365,
+    0.002,
+    null
+   ],
+   "clip-padrao-v1:1 × frame:1515_200mm - D:1": [
+    0.471,
+    0.002,
+    null
+   ],
+   "clip-padrao-v2:1 × frame:1515_200mm - D:1": [
+    1.2147,
+    0.002,
+    null
+   ],
+   "clip-padrao-v2:2 × frame:1515_200mm - D:1": [
+    1.2147,
+    0.002,
+    null
+   ],
+   "clip-u-idle:1 × frame:1515_200mm - D:1": [
+    0.0144,
+    0.002,
+    null
+   ],
+   "tampa-parede-v:1 × frame:1515_200mm - D:1": [
+    0.4809,
+    0.002,
+    null
+   ],
+   "clip-padrao-v1:2 × frame:1515_200mm - C:1": [
+    0.471,
+    0.002,
+    null
+   ],
+   "clip-padrao-v2:3 × frame:1515_200mm - C:1": [
+    1.2147,
+    0.002,
+    null
+   ],
+   "clip-padrao-v2:4 × frame:1515_200mm - C:1": [
+    1.2147,
+    0.002,
+    null
+   ],
+   "clip-u-idle:2 × frame:1515_200mm - C:1": [
+    0.0144,
+    0.002,
+    null
+   ],
+   "tampa-parede-v:2 × frame:1515_200mm - C:1": [
+    0.4809,
+    0.002,
+    null
+   ],
+   "canto-parede-vh:1 × frame:1515_200mm - C:1": [
+    0.4264,
+    0.002,
+    null
+   ],
+   "canto-lateral-dobradica-base:1 × frame:1515_200mm - D:1": [
+    0.4264,
+    0.002,
+    null
+   ],
+   "canto-topo-lateral-hv:1 × frame:1515_200mm - C:1": [
+    0.1289,
+    0.002,
+    null
+   ],
+   "canto-topo-lateral-hv:1 × frame:1515 80mm - H:2": [
+    0.0054,
+    0.002,
+    null
+   ],
+   "canto-lateral-dobradica-topo:1 × frame:1515_200mm - D:1": [
+    0.1289,
+    0.002,
+    null
+   ],
+   "canto-lateral-dobradica-topo:1 × frame:1515 80mm - H:4": [
+    0.0134,
+    0.002,
+    null
+   ]
+  },
+  "lateral-esquerda": {
+   "clip-padrao-h1:1 × frame:1515_200mm - E:4": [
+    0.0365,
+    0.002,
+    null
+   ],
+   "clip-padrao-h2:1 × frame:1515_200mm - E:4": [
+    0.0731,
+    0.002,
+    null
+   ],
+   "clip-padrao-h2:2 × frame:1515_200mm - E:4": [
+    0.0731,
+    0.002,
+    null
+   ],
+   "clip-padrao-h1:2 × frame:1515_200mm - E:4": [
+    0.0365,
+    0.002,
+    null
+   ],
+   "clip-parede-h1:1 × frame:1515_200mm - B:3": [
+    0.0365,
+    0.002,
+    null
+   ],
+   "clip-parede-h2:1 × frame:1515_200mm - B:3": [
+    0.0731,
+    0.002,
+    null
+   ],
+   "clip-parede-h2:2 × frame:1515_200mm - B:3": [
+    0.0731,
+    0.002,
+    null
+   ],
+   "clip-parede-h1:2 × frame:1515_200mm - B:3": [
+    0.0365,
+    0.002,
+    null
+   ]
+  },
+  "porta": {
+   "clip-porta-h1:1 × frame:1515_200mm - D:2": [
+    0.0204,
+    0.002,
+    null
+   ]
+  },
+  "traseira": {
+   "clip-padrao-v1:1 × frame:1515_200mm - C:1": [
+    0.0347,
+    0.002,
+    null
+   ],
+   "clip-padrao-v2:1 × frame:1515_200mm - C:1": [
+    0.0895,
+    0.002,
+    null
+   ],
+   "clip-padrao-v2:2 × frame:1515_200mm - C:1": [
+    0.0895,
+    0.002,
+    null
+   ],
+   "clip-padrao-v1:2 × frame:1515_200mm - C:2": [
+    0.0347,
+    0.002,
+    null
+   ],
+   "clip-padrao-v2:3 × frame:1515_200mm - C:2": [
+    0.0895,
+    0.002,
+    null
+   ],
+   "clip-padrao-v2:4 × frame:1515_200mm - C:2": [
+    0.0895,
+    0.002,
+    null
+   ]
+  },
+  "tophat-frente": {
+   "clip-padrao-h1:1 × frame:1515 80mm - H:3": [
+    0.0088,
+    0.002,
+    null
+   ],
+   "clip-padrao-th:1 × frame:1515 80mm - H:4": [
+    0.0811,
+    0.002,
+    null
+   ],
+   "clip-padrao-th:2 × frame:1515 80mm - H:3": [
+    0.0811,
+    0.002,
+    null
+   ]
+  },
+  "tophat-tras": {
+   "clip-padrao-h1:1 × frame:1515 80mm - H:1": [
+    0.0088,
+    0.002,
+    null
+   ],
+   "clip-padrao-h1:1 × frame:1515 200mm - A:2": [
+    0.4958,
+    0.002,
+    null
+   ],
+   "clip-padrao-h2:1 × frame:1515 200mm - A:2": [
+    0.9916,
+    0.002,
+    null
+   ],
+   "clip-padrao-h2:2 × frame:1515 200mm - A:2": [
+    0.9916,
+    0.002,
+    null
+   ],
+   "clip-padrao-h1:2 × frame:1515 200mm - A:2": [
+    0.4958,
+    0.002,
+    null
+   ],
+   "tampa-parede-h:1 × frame:1515 200mm - A:2": [
+    0.3768,
+    0.002,
+    null
+   ],
+   "clip-padrao-th:1 × frame:1515 80mm - H:2": [
+    0.0811,
+    0.002,
+    null
+   ],
+   "clip-padrao-th:2 × frame:1515 80mm - H:1": [
+    0.0811,
+    0.002,
+    null
+   ],
+   "canto-tophat-vh:1 × frame:1515 200mm - A:2": [
+    0.3074,
+    0.002,
+    null
+   ],
+   "canto-tophat-hv:1 × frame:1515 200mm - A:2": [
+    0.3074,
+    0.002,
+    null
+   ]
+  },
+  "tophat-direita": {
+   "clip-padrao-h1:1 × frame:1515 200mm - A:3": [
+    0.0365,
+    0.002,
+    null
+   ],
+   "clip-padrao-h2:1 × frame:1515 200mm - A:3": [
+    0.0731,
+    0.002,
+    null
+   ],
+   "clip-padrao-h2:2 × frame:1515 200mm - A:3": [
+    0.0731,
+    0.002,
+    null
+   ],
+   "clip-padrao-h1:2 × frame:1515 200mm - A:3": [
+    0.0365,
+    0.002,
+    null
+   ],
+   "clip-padrao-th:1 × frame:1515 80mm - H:2": [
+    1.1007,
+    0.002,
+    null
+   ],
+   "clip-padrao-th:2 × frame:1515 80mm - H:4": [
+    1.1007,
+    0.002,
+    null
+   ],
+   "canto-tophat-hv:1 × frame:1515 80mm - H:2": [
+    0.4264,
+    0.002,
+    null
+   ],
+   "canto-tophat-vh:1 × frame:1515 80mm - H:4": [
+    0.4264,
+    0.002,
+    null
+   ]
+  },
+  "tophat-esquerda": {
+   "clip-padrao-h1:1 × frame:1515 200mm - A:1": [
+    0.0365,
+    0.002,
+    null
+   ],
+   "clip-padrao-h2:1 × frame:1515 200mm - A:1": [
+    0.0731,
+    0.002,
+    null
+   ],
+   "clip-padrao-h2:2 × frame:1515 200mm - A:1": [
+    0.0731,
+    0.002,
+    null
+   ],
+   "clip-padrao-h1:2 × frame:1515 200mm - A:1": [
+    0.0365,
+    0.002,
+    null
+   ]
+  },
+  "tophat-tampo": {
+   "clip-padrao-h1:1 × frame:1515 200mm - A:3": [
+    0.4958,
+    0.002,
+    null
+   ],
+   "clip-padrao-h2:1 × frame:1515 200mm - A:3": [
+    0.9916,
+    0.002,
+    null
+   ],
+   "clip-padrao-h2:2 × frame:1515 200mm - A:3": [
+    0.9916,
+    0.002,
+    null
+   ],
+   "clip-padrao-h1:2 × frame:1515 200mm - A:3": [
+    0.4958,
+    0.002,
+    null
+   ],
+   "tampa-parede-h:1 × frame:1515 200mm - A:3": [
+    0.3768,
+    0.002,
+    null
+   ],
+   "clip-padrao-h1:3 × frame:1515 200mm - A:1": [
+    0.4958,
+    0.002,
+    null
+   ],
+   "clip-padrao-h2:3 × frame:1515 200mm - A:1": [
+    0.9916,
+    0.002,
+    null
+   ],
+   "clip-padrao-h2:4 × frame:1515 200mm - A:1": [
+    0.9916,
+    0.002,
+    null
+   ],
+   "clip-padrao-h1:4 × frame:1515 200mm - A:1": [
+    0.4958,
+    0.002,
+    null
+   ],
+   "tampa-parede-h:2 × frame:1515 200mm - A:1": [
+    0.3768,
+    0.002,
+    null
+   ],
+   "clip-padrao-h1:5 × frame:1515 200mm - A:2": [
+    0.0365,
+    0.002,
+    null
+   ],
+   "clip-padrao-h2:5 × frame:1515 200mm - A:2": [
+    0.0731,
+    0.002,
+    null
+   ],
+   "clip-padrao-h2:6 × frame:1515 200mm - A:2": [
+    0.0731,
+    0.002,
+    null
+   ],
+   "clip-padrao-h1:6 × frame:1515 200mm - A:2": [
+    0.0365,
+    0.002,
+    null
+   ],
+   "clip-padrao-h1:7 × frame:1515 200mm - A:4": [
+    0.0365,
+    0.002,
+    null
+   ],
+   "clip-padrao-h2:7 × frame:1515 200mm - A:4": [
+    0.0731,
+    0.002,
+    null
+   ],
+   "clip-padrao-h2:8 × frame:1515 200mm - A:4": [
+    0.0731,
+    0.002,
+    null
+   ],
+   "clip-padrao-h1:8 × frame:1515 200mm - A:4": [
+    0.0365,
+    0.002,
+    null
+   ],
+   "canto-parede-hh:1 × frame:1515 200mm - A:3": [
+    0.3074,
+    0.002,
+    null
+   ],
+   "canto-parede-hh:2 × frame:1515 200mm - A:3": [
+    0.3074,
+    0.002,
+    null
+   ],
+   "canto-parede-hh:3 × frame:1515 200mm - A:1": [
+    0.3074,
+    0.002,
+    null
+   ],
+   "canto-parede-hh:4 × frame:1515 200mm - A:1": [
+    0.3074,
+    0.002,
+    null
+   ]
+  }
+ },
+ "entre_faces": {},
+ "giro_porta": {
+  "porta 15°": {},
+  "porta 45°": {},
+  "porta 90°": {},
+  "porta 110°": {}
+ },
+ "tempo": 27
+}

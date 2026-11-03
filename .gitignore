@@ -1,0 +1,31 @@
+.DS_Store
+__pycache__/
+*.pyc
+.venv*/
+.claude/
+
+# the print tests' videos
+videos/
+
+# the exported parts stay local (the configurator makes any panel), except the printed lock kits' files the one-piece
+# generators read (web/empacotar.py kits()); a kit chosen in a config goes here too
+stl/*
+!stl/trident-provas-peca-unica-trava-v7/
+!stl/trident-provas-peca-unica-trava-v8/
+!stl/trident-provas-peca-unica-trava-v5/
+!stl/provas-peca-unica-trava-v1/
+!stl/provas-trava-v3/
+stl/*/*
+!stl/trident-provas-peca-unica-trava-v7/trava-cursor-final.step
+!stl/trident-provas-peca-unica-trava-v7/trava-capa-final.step
+!stl/trident-provas-peca-unica-trava-v7/trava-capa-final-2x.stl
+!stl/trident-provas-peca-unica-trava-v8/trava-cursor-gancho-020.step
+!stl/trident-provas-peca-unica-trava-v8/trava-cursor-gancho-020-1x.stl
+!stl/trident-provas-peca-unica-trava-v5/trava-indicador-1x.stl
+!stl/provas-peca-unica-trava-v1/trava-cursor-gancho-010-1x.stl
+!stl/provas-peca-unica-trava-v1/trava-capa-1x.stl
+!stl/provas-trava-v3/trava-indicador-1x.stl
+
+# copies made by web/empacotar.py (the Pages workflow runs it before publishing web/)
+web/gerador/
+web/stl/

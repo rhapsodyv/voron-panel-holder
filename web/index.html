@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Panel Holder Configurator</title>
+<meta name="description" content="Panel holder configurator for the Voron V0.2 and Trident 350: clips and covers, or one-piece holders with a sliding lock, generated in the browser with build123d.">
+<link rel="stylesheet" href="estilo.css">
+<script type="importmap">
+{ "imports": {
+  "three": "https://cdn.jsdelivr.net/npm/three@0.160.0/build/three.module.js",
+  "three/addons/": "https://cdn.jsdelivr.net/npm/three@0.160.0/examples/jsm/"
+} }
+</script>
+</head>
+<body>
+<header>
+  <h1>Panel holder</h1>
+  <span class="sub">clips, covers and one-piece holders for Voron panels, generated here in your browser</span>
+  <span id="estado" class="estado carregando">starting…</span>
+</header>
+<main>
+  <aside id="lado">
+    <section class="bloco">
+      <label>Printer <select id="maquina" disabled></select></label>
+      <label>Panel <select id="face" disabled></select></label>
+      <div class="botoes">
+        <button id="gerar" class="primario" disabled>Generate</button>
+        <button id="conferir" disabled>Check</button>
+        <button id="baixar" disabled>Download STLs</button>
+      </div>
+      <p id="aviso" class="aviso" hidden></p>
+      <p id="progresso" class="progresso">Loading…</p>
+    </section>
+    <section class="bloco" id="bloco-conferencia" hidden>
+      <h2>Check</h2>
+      <div id="conferencia"></div>
+    </section>
+    <section class="bloco" id="bloco-pecas" hidden>
+      <h2>Parts of this panel</h2>
+      <table id="pecas"><thead><tr><th>Part (file)</th><th class="num">Qty</th><th class="num">mm³</th></tr></thead><tbody></tbody></table>
+    </section>
+    <section class="bloco">
+      <h2>Parameters <span id="n-alterados" class="contador"></span></h2>
+      <div class="filtros">
+        <input id="filtro" type="search" placeholder="filter">
+        <label class="check"><input id="so-alterados" type="checkbox"> changed only</label>
+        <button id="restaurar" class="pequeno">reset</button>
+      </div>
+      <div id="parametros"></div>
+    </section>
+  </aside>
+  <section id="vista">
+    <div id="tela"></div>
+    <div id="legenda">
+      <span><i class="c-externa"></i>covers and corners</span>
+      <span><i class="c-interna"></i>clips</span>
+      <span><i class="c-trava"></i>lock</span>
+      <label class="check"><input id="ver-frame" type="checkbox" checked> frame</label>
+    </div>
+    <div id="selecao" hidden></div>
+    <p id="rodape">Ready-made with the default values; a changed parameter is generated here, by the
+      <a href="https://github.com/yeicor/OCP.wasm">OCP.wasm</a> build of OpenCascade (the first load takes about a minute).</p>
+    <div id="vazio">The model shows up here.</div>
+  </section>
+</main>
+<script type="module" src="app.js"></script>
+</body>
+</html>

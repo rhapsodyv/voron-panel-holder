@@ -1,0 +1,184 @@
+{
+ "meio|rasgo|Gantry|A_Belt": {
+  "vol": 35.3,
+  "ao_longo": [
+   -158.0,
+   -152.0
+  ]
+ },
+ "meio|rasgo|Gantry|B_Belt": {
+  "vol": 35.3,
+  "ao_longo": [
+   -168.0,
+   -162.0
+  ]
+ },
+ "esquerda|rasgo|Skirt|Skirt_Corner_A": {
+  "vol": 33.1,
+  "ao_longo": [
+   -521.0,
+   -520.0
+  ]
+ },
+ "direita|rasgo|Skirt|Skirt_Corner_B": {
+  "vol": 33.1,
+  "ao_longo": [
+   -521.0,
+   -520.0
+  ]
+ },
+ "meio|rasgo|Skirt|250_Rear": {
+  "vol": 33.1,
+  "ao_longo": [
+   -521.0,
+   -520.0
+  ]
+ },
+ "meio|rasgo|Skirt|300_Rear": {
+  "vol": 33.1,
+  "ao_longo": [
+   -521.0,
+   -520.0
+  ]
+ },
+ "meio|rasgo|Skirt|350_Rear": {
+  "vol": 33.1,
+  "ao_longo": [
+   -521.0,
+   -520.0
+  ]
+ },
+ "direita|rasgo|Frame|2020 Drop-in T-nut, M3": {
+  "vol": 249.9,
+  "ao_longo": [
+   -128.5,
+   -116.0
+  ]
+ },
+ "meio|fora|Exhaust Filter Assembly|Filter Element": {
+  "vol": 8347.7,
+  "ao_longo": [
+   -136.9,
+   -71.9
+  ]
+ },
+ "meio|fora|Exhaust Filter Assembly|VHB Mount tape": {
+  "vol": 63.5,
+  "ao_longo": [
+   -183.7,
+   -178.7
+  ]
+ },
+ "meio|fora|Exhaust Filter Assembly|Exhaust Housing": {
+  "vol": 965.0,
+  "ao_longo": [
+   -183.7,
+   -40.0
+  ]
+ },
+ "topo|fora|Exhaust Filter Assembly|Exhaust Housing": {
+  "vol": 1394.5,
+  "ao_longo": [
+   -272.3,
+   -117.8
+  ]
+ },
+ "meio|fora|Exhaust Filter Assembly|Exhaust Grill": {
+  "vol": 720.6,
+  "ao_longo": [
+   -71.6,
+   -40.0
+  ]
+ },
+ "meio|rasgo|Exhaust Filter Assembly|Exhaust Grill": {
+  "vol": 140.9,
+  "ao_longo": [
+   -77.6,
+   -40.0
+  ]
+ },
+ "topo|fora|Exhaust Filter Assembly|Exhaust Grill": {
+  "vol": 779.9,
+  "ao_longo": [
+   -262.4,
+   -127.6
+  ]
+ },
+ "topo|fora|Exhaust Filter Assembly|M5x10 BHCS": {
+  "vol": 398.4,
+  "ao_longo": [
+   -263.0,
+   -127.1
+  ]
+ },
+ "topo|rasgo|Exhaust Filter Assembly|M5x10 BHCS": {
+  "vol": 218.6,
+  "ao_longo": [
+   -260.7,
+   -129.3
+  ]
+ },
+ "topo|fora|Exhaust Filter Assembly|Exhaust Mount": {
+  "vol": 1416.3,
+  "ao_longo": [
+   -141.8,
+   -121.8
+  ]
+ },
+ "meio|fora|Exhaust Filter Assembly|PTFE_Tube (4x3mm)": {
+  "vol": 48.0,
+  "ao_longo": [
+   -56.8,
+   -52.8
+  ]
+ },
+ "meio|rasgo|Exhaust Filter Assembly|PTFE_Tube (4x3mm)": {
+  "vol": 18.6,
+  "ao_longo": [
+   -56.8,
+   -52.8
+  ]
+ },
+ "meio|fora|Exhaust Filter Assembly|6020 Fan": {
+  "vol": 200.0,
+  "ao_longo": [
+   -186.6,
+   -182.8
+  ]
+ },
+ "topo|fora|Exhaust Filter Assembly|Exhaust Mount (1)": {
+  "vol": 1416.3,
+  "ao_longo": [
+   -268.2,
+   -248.2
+  ]
+ },
+ "topo|fora|Bowden Tube Holder|Bowden Tube Holder": {
+  "vol": 992.3,
+  "ao_longo": [
+   -120.9,
+   -96.9
+  ]
+ },
+ "direita|fora|Spool Holder|Spool_Holder": {
+  "vol": 4690.5,
+  "ao_longo": [
+   -142.7,
+   -97.3
+  ]
+ },
+ "direita|rasgo|Spool Holder|Spool_Holder": {
+  "vol": 605.2,
+  "ao_longo": [
+   -142.7,
+   -97.3
+  ]
+ },
+ "direita|fora|Spool Holder|PFTE insert": {
+  "vol": 75.4,
+  "ao_longo": [
+   -131.4,
+   -108.6
+  ]
+ }
+}

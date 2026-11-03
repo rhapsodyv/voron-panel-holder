@@ -1,0 +1,116 @@
+{
+ "interferencia": {
+  "lateral-direita": {
+   "trava-cursor:1 × trava-capa:1": [
+    0.816,
+    0.2,
+    "orelha do cursor (sai antes de montar)"
+   ],
+   "trava-cursor:2 × trava-capa:2": [
+    0.816,
+    0.2,
+    "orelha do cursor (sai antes de montar)"
+   ],
+   "trava-cursor-espelho:1 × trava-capa-espelho:1": [
+    0.816,
+    0.2,
+    "orelha do cursor (sai antes de montar)"
+   ],
+   "trava-cursor:3 × trava-capa:3": [
+    0.816,
+    0.2,
+    "orelha do cursor (sai antes de montar)"
+   ]
+  },
+  "lateral-esquerda": {
+   "trava-cursor:1 × trava-capa:1": [
+    0.816,
+    0.2,
+    "orelha do cursor (sai antes de montar)"
+   ],
+   "trava-cursor:2 × trava-capa:2": [
+    0.816,
+    0.2,
+    "orelha do cursor (sai antes de montar)"
+   ],
+   "trava-cursor:3 × trava-capa:3": [
+    0.816,
+    0.2,
+    "orelha do cursor (sai antes de montar)"
+   ],
+   "trava-cursor-espelho:1 × trava-capa-espelho:1": [
+    0.816,
+    0.2,
+    "orelha do cursor (sai antes de montar)"
+   ]
+  },
+  "porta-direita": {},
+  "porta-esquerda": {},
+  "traseira": {
+   "clip-padrao-h2:2 × passa-bowden:1": [
+    8.1928,
+    0.05,
+    "nervura na peça que faz as vezes da chapa"
+   ],
+   "clip-padrao-h2-trava:2 × passa-bowden:1": [
+    8.1928,
+    0.05,
+    "nervura na peça que faz as vezes da chapa"
+   ],
+   "trava-cursor:1 × trava-capa:1": [
+    0.816,
+    0.2,
+    "orelha do cursor (sai antes de montar)"
+   ],
+   "trava-cursor:2 × trava-capa:2": [
+    0.816,
+    0.2,
+    "orelha do cursor (sai antes de montar)"
+   ],
+   "trava-cursor-espelho:1 × trava-capa-espelho:1": [
+    0.816,
+    0.2,
+    "orelha do cursor (sai antes de montar)"
+   ],
+   "trava-cursor:3 × trava-capa:3": [
+    0.816,
+    0.2,
+    "orelha do cursor (sai antes de montar)"
+   ]
+  },
+  "topo": {
+   "trava-cursor:1 × trava-capa:1": [
+    0.816,
+    0.2,
+    "orelha do cursor (sai antes de montar)"
+   ],
+   "trava-cursor:2 × trava-capa:2": [
+    0.816,
+    0.2,
+    "orelha do cursor (sai antes de montar)"
+   ],
+   "trava-cursor:3 × trava-capa:3": [
+    0.816,
+    0.2,
+    "orelha do cursor (sai antes de montar)"
+   ],
+   "trava-cursor:4 × trava-capa:4": [
+    0.816,
+    0.2,
+    "orelha do cursor (sai antes de montar)"
+   ]
+  }
+ },
+ "entre_faces": {},
+ "giro_porta": {
+  "porta-direita 15°": {},
+  "porta-direita 45°": {},
+  "porta-direita 90°": {},
+  "porta-direita 110°": {},
+  "porta-esquerda 15°": {},
+  "porta-esquerda 45°": {},
+  "porta-esquerda 90°": {},
+  "porta-esquerda 110°": {}
+ },
+ "tempo": 61
+}

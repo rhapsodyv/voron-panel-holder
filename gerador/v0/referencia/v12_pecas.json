@@ -1,0 +1,452 @@
+{
+ "clip-padrao-th": {
+  "vol": 4216.58,
+  "faces": 31,
+  "corpos": 1,
+  "caixa": [
+   12.0,
+   12.0,
+   74.0
+  ]
+ },
+ "clip-parede-h2": {
+  "vol": 4658.72,
+  "faces": 31,
+  "corpos": 1,
+  "caixa": [
+   15.0,
+   12.0,
+   66.67
+  ]
+ },
+ "canto-topo-lateral-vh": {
+  "vol": 7012.54,
+  "faces": 39,
+  "corpos": 1,
+  "caixa": [
+   77.0,
+   78.5,
+   8.3
+  ]
+ },
+ "clip-parede-h1": {
+  "vol": 2329.36,
+  "faces": 31,
+  "corpos": 1,
+  "caixa": [
+   15.0,
+   12.0,
+   33.33
+  ]
+ },
+ "canto-topo-porta-vh": {
+  "vol": 7012.54,
+  "faces": 39,
+  "corpos": 1,
+  "caixa": [
+   77.0,
+   78.5,
+   8.3
+  ]
+ },
+ "canto-tophat-hv": {
+  "vol": 8183.78,
+  "faces": 38,
+  "corpos": 1,
+  "caixa": [
+   78.5,
+   78.5,
+   8.3
+  ]
+ },
+ "canto-lateral-dobradica-base": {
+  "vol": 8997.89,
+  "faces": 55,
+  "corpos": 1,
+  "caixa": [
+   85.2,
+   78.5,
+   8.3
+  ]
+ },
+ "canto-tophat-vh": {
+  "vol": 8183.78,
+  "faces": 38,
+  "corpos": 1,
+  "caixa": [
+   78.5,
+   78.5,
+   8.3
+  ]
+ },
+ "canto-parede-vh": {
+  "vol": 8133.39,
+  "faces": 40,
+  "corpos": 1,
+  "caixa": [
+   78.5,
+   78.5,
+   8.3
+  ]
+ },
+ "canto-parede-hh": {
+  "vol": 8159.68,
+  "faces": 38,
+  "corpos": 1,
+  "caixa": [
+   78.5,
+   78.5,
+   8.3
+  ]
+ },
+ "tampa-parede-h": {
+  "vol": 4599.54,
+  "faces": 20,
+  "corpos": 1,
+  "caixa": [
+   19.5,
+   8.3,
+   82.0
+  ]
+ },
+ "tampa-simples-h": {
+  "vol": 3448.14,
+  "faces": 18,
+  "corpos": 1,
+  "caixa": [
+   18.0,
+   4.0,
+   82.0
+  ]
+ },
+ "tampa-parede-v-puxador": {
+  "vol": 6222.55,
+  "faces": 33,
+  "corpos": 1,
+  "caixa": [
+   21.6,
+   8.3,
+   103.0
+  ]
+ },
+ "canto-parede-hv": {
+  "vol": 8133.39,
+  "faces": 40,
+  "corpos": 1,
+  "caixa": [
+   78.5,
+   78.5,
+   8.3
+  ]
+ },
+ "tampa-simples": {
+  "vol": 880.88,
+  "faces": 14,
+  "corpos": 1,
+  "caixa": [
+   18.0,
+   4.0,
+   20.0
+  ]
+ },
+ "clip-porta-dobradica": {
+  "vol": 1194.75,
+  "faces": 25,
+  "corpos": 1,
+  "caixa": [
+   12.0,
+   11.39,
+   20.0
+  ]
+ },
+ "clip-u": {
+  "vol": 703.82,
+  "faces": 15,
+  "corpos": 1,
+  "caixa": [
+   8.73,
+   7.3,
+   20.0
+  ]
+ },
+ "clip-u-h2": {
+  "vol": 2346.05,
+  "faces": 15,
+  "corpos": 1,
+  "caixa": [
+   8.73,
+   7.3,
+   66.67
+  ]
+ },
+ "clip-u-idle": {
+  "vol": 1759.54,
+  "faces": 15,
+  "corpos": 1,
+  "caixa": [
+   8.73,
+   7.3,
+   50.0
+  ]
+ },
+ "clip-padrao-h1": {
+  "vol": 1899.36,
+  "faces": 31,
+  "corpos": 1,
+  "caixa": [
+   12.0,
+   12.0,
+   33.33
+  ]
+ },
+ "clip-padrao-h2": {
+  "vol": 3798.72,
+  "faces": 31,
+  "corpos": 1,
+  "caixa": [
+   12.0,
+   12.0,
+   66.67
+  ]
+ },
+ "clip-porta-lateral": {
+  "vol": 1276.22,
+  "faces": 21,
+  "corpos": 1,
+  "caixa": [
+   12.0,
+   12.0,
+   20.0
+  ]
+ },
+ "clip-padrao-v1": {
+  "vol": 1804.39,
+  "faces": 31,
+  "corpos": 1,
+  "caixa": [
+   12.0,
+   12.0,
+   31.67
+  ]
+ },
+ "clip-u-h1": {
+  "vol": 1173.03,
+  "faces": 15,
+  "corpos": 1,
+  "caixa": [
+   8.73,
+   7.3,
+   33.33
+  ]
+ },
+ "clip-porta-dobradica-v2": {
+  "vol": 4878.57,
+  "faces": 25,
+  "corpos": 1,
+  "caixa": [
+   12.0,
+   11.39,
+   81.67
+  ]
+ },
+ "clip-porta-h1": {
+  "vol": 1929.03,
+  "faces": 21,
+  "corpos": 1,
+  "caixa": [
+   12.0,
+   12.0,
+   33.33
+  ]
+ },
+ "clip-porta-dobradica-v1": {
+  "vol": 1891.69,
+  "faces": 25,
+  "corpos": 1,
+  "caixa": [
+   12.0,
+   11.39,
+   31.67
+  ]
+ },
+ "clip-porta": {
+  "vol": 1157.42,
+  "faces": 21,
+  "corpos": 1,
+  "caixa": [
+   12.0,
+   12.0,
+   20.0
+  ]
+ },
+ "clip-porta-lateral-v2": {
+  "vol": 5211.21,
+  "faces": 21,
+  "corpos": 1,
+  "caixa": [
+   12.0,
+   12.0,
+   81.67
+  ]
+ },
+ "clip-parede": {
+  "vol": 1397.62,
+  "faces": 31,
+  "corpos": 1,
+  "caixa": [
+   15.0,
+   12.0,
+   20.0
+  ]
+ },
+ "clip-porta-lateral-v1": {
+  "vol": 2020.67,
+  "faces": 21,
+  "corpos": 1,
+  "caixa": [
+   12.0,
+   12.0,
+   31.67
+  ]
+ },
+ "clip-porta-h2": {
+  "vol": 3858.05,
+  "faces": 21,
+  "corpos": 1,
+  "caixa": [
+   12.0,
+   12.0,
+   66.67
+  ]
+ },
+ "canto-topo-porta-hv": {
+  "vol": 7012.54,
+  "faces": 39,
+  "corpos": 1,
+  "caixa": [
+   78.5,
+   77.0,
+   8.3
+  ]
+ },
+ "canto-porta-dobradica-base": {
+  "vol": 8977.31,
+  "faces": 56,
+  "corpos": 1,
+  "caixa": [
+   78.5,
+   85.2,
+   8.3
+  ]
+ },
+ "ref-perfil-1515": {
+  "vol": 2258.24,
+  "faces": 482,
+  "corpos": 1,
+  "caixa": [
+   15.0,
+   15.0,
+   20.0
+  ]
+ },
+ "acrilico-ref": {
+  "vol": 972.0,
+  "faces": 6,
+  "corpos": 1,
+  "caixa": [
+   18.0,
+   2.7,
+   20.0
+  ]
+ },
+ "tampa-parede": {
+  "vol": 1183.88,
+  "faces": 16,
+  "corpos": 1,
+  "caixa": [
+   19.5,
+   8.3,
+   20.0
+  ]
+ },
+ "ref-1515-200": {
+  "vol": 22582.37,
+  "faces": 482,
+  "corpos": 1,
+  "caixa": [
+   15.0,
+   15.0,
+   200.0
+  ]
+ },
+ "canto-lateral-dobradica-topo": {
+  "vol": 7896.39,
+  "faces": 50,
+  "corpos": 1,
+  "caixa": [
+   77.0,
+   85.2,
+   8.3
+  ]
+ },
+ "canto-topo-lateral-hv": {
+  "vol": 7012.54,
+  "faces": 39,
+  "corpos": 1,
+  "caixa": [
+   78.5,
+   77.0,
+   8.3
+  ]
+ },
+ "tampa-parede-v": {
+  "vol": 5842.62,
+  "faces": 20,
+  "corpos": 1,
+  "caixa": [
+   19.5,
+   8.3,
+   103.0
+  ]
+ },
+ "clip-padrao-v2": {
+  "vol": 4653.43,
+  "faces": 31,
+  "corpos": 1,
+  "caixa": [
+   12.0,
+   12.0,
+   81.67
+  ]
+ },
+ "ref-1515-80": {
+  "vol": 9032.95,
+  "faces": 482,
+  "corpos": 1,
+  "caixa": [
+   15.0,
+   15.0,
+   80.0
+  ]
+ },
+ "canto-porta-dobradica-topo": {
+  "vol": 7856.45,
+  "faces": 51,
+  "corpos": 1,
+  "caixa": [
+   85.2,
+   77.0,
+   8.3
+  ]
+ },
+ "clip-padrao": {
+  "vol": 1139.62,
+  "faces": 31,
+  "corpos": 1,
+  "caixa": [
+   12.0,
+   12.0,
+   20.0
+  ]
+ }
+}

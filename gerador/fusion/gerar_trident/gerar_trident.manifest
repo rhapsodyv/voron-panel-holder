@@ -1,0 +1,10 @@
+{
+	"autodeskProduct": "Fusion",
+	"type": "script",
+	"author": "",
+	"description": {
+		"": "Gera o panel holder da Trident (todas as peças, faces e verificações) a partir do gerador em Python"
+	},
+	"supportedOS": "windows|mac",
+	"editEnabled": true
+}

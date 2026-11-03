@@ -1,0 +1,802 @@
+{
+ "lateral-direita/frente": [
+  [
+   "fora",
+   "Foam Tape (3mm, optional)",
+   "Gantry",
+   -157,
+   -151
+  ],
+  [
+   "rasgo",
+   "Front_Idler_A",
+   "Gantry",
+   -175,
+   -155
+  ],
+  [
+   "rasgo",
+   "Front_Idler_B",
+   "Gantry",
+   -157,
+   -145
+  ],
+  [
+   "rasgo",
+   "Z_Motor_Mount_Right",
+   "Z Assembly",
+   -504,
+   -492
+  ],
+  [
+   "rasgo",
+   "Skirt_Corner_A",
+   "Skirt",
+   -520,
+   -519
+  ]
+ ],
+ "lateral-direita/tras": [
+  [
+   "fora",
+   "Foam Tape (3mm, optional)",
+   "Gantry",
+   -157,
+   -151
+  ],
+  [
+   "rasgo",
+   "A_Drive_Frame_Lower",
+   "Gantry",
+   -175,
+   -158
+  ],
+  [
+   "rasgo",
+   "A_Drive_Frame_Upper",
+   "Gantry",
+   -160,
+   -145
+  ],
+  [
+   "rasgo",
+   "Skirt_Corner_B",
+   "Skirt",
+   -520,
+   -519
+  ]
+ ],
+ "lateral-direita/base": [
+  [
+   "fora",
+   "Fan Grill A",
+   "Skirt",
+   105,
+   165
+  ],
+  [
+   "fora",
+   "Fan Grill B",
+   "Skirt",
+   225,
+   285
+  ],
+  [
+   "rasgo",
+   "M5x16 BHCS",
+   "Frame",
+   5,
+   24
+  ],
+  [
+   "rasgo",
+   "M5x16 BHCS",
+   "Frame",
+   366,
+   385
+  ]
+ ],
+ "lateral-direita/topo": [
+  [
+   "rasgo",
+   "M5x16 BHCS",
+   "Frame",
+   5,
+   24
+  ],
+  [
+   "rasgo",
+   "M5x16 BHCS",
+   "Frame",
+   366,
+   385
+  ]
+ ],
+ "lateral-esquerda/frente": [
+  [
+   "fora",
+   "Foam Tape (3mm, optional)",
+   "Gantry",
+   -157,
+   -151
+  ],
+  [
+   "fora",
+   "Z_Carriage_Left",
+   "Z Assembly",
+   -242,
+   -206
+  ],
+  [
+   "fora",
+   "Z_Carriage_Left",
+   "Z Assembly",
+   -246,
+   -242
+  ],
+  [
+   "rasgo",
+   "Front_Idler_A",
+   "Gantry",
+   -165,
+   -145
+  ],
+  [
+   "rasgo",
+   "Front_Idler_B",
+   "Gantry",
+   -175,
+   -163
+  ],
+  [
+   "rasgo",
+   "Z_Motor_Mount_Left",
+   "Z Assembly",
+   -504,
+   -492
+  ],
+  [
+   "rasgo",
+   "Skirt_Corner_B",
+   "Skirt",
+   -520,
+   -519
+  ]
+ ],
+ "lateral-esquerda/tras": [
+  [
+   "fora",
+   "Foam Tape (3mm, optional)",
+   "Gantry",
+   -157,
+   -151
+  ],
+  [
+   "rasgo",
+   "B_Drive_Frame_Upper",
+   "Gantry",
+   -160,
+   -145
+  ],
+  [
+   "rasgo",
+   "B_Drive_Frame_Lower",
+   "Gantry",
+   -175,
+   -158
+  ],
+  [
+   "rasgo",
+   "Skirt_Corner_A",
+   "Skirt",
+   -520,
+   -519
+  ]
+ ],
+ "lateral-esquerda/base": [
+  [
+   "fora",
+   "Fan Grill B",
+   "Skirt",
+   105,
+   165
+  ],
+  [
+   "fora",
+   "Fan Grill A",
+   "Skirt",
+   225,
+   285
+  ],
+  [
+   "rasgo",
+   "M5x16 BHCS",
+   "Frame",
+   366,
+   385
+  ],
+  [
+   "rasgo",
+   "M5x16 BHCS",
+   "Frame",
+   5,
+   24
+  ]
+ ],
+ "lateral-esquerda/topo": [
+  [
+   "rasgo",
+   "M5x16 BHCS",
+   "Frame",
+   366,
+   385
+  ],
+  [
+   "rasgo",
+   "M5x16 BHCS",
+   "Frame",
+   5,
+   24
+  ]
+ ],
+ "traseira/direita": [
+  [
+   "fora",
+   "Spool_Holder",
+   "Spool Holder",
+   -143,
+   -97
+  ],
+  [
+   "fora",
+   "PFTE insert",
+   "Spool Holder",
+   -113,
+   -109
+  ],
+  [
+   "fora",
+   "PFTE insert",
+   "Spool Holder",
+   -131,
+   -127
+  ],
+  [
+   "fora",
+   "M5x16 BHCS",
+   "Spool Holder",
+   -125,
+   -115
+  ],
+  [
+   "rasgo",
+   "A_Drive_Frame_Lower",
+   "Gantry",
+   -175,
+   -158
+  ],
+  [
+   "rasgo",
+   "A_Drive_Frame_Upper",
+   "Gantry",
+   -160,
+   -145
+  ],
+  [
+   "rasgo",
+   "Skirt_Corner_B",
+   "Skirt",
+   -520,
+   -519
+  ],
+  [
+   "rasgo",
+   "2020 Drop-in T-nut, M3",
+   "Frame",
+   -128,
+   -116
+  ],
+  [
+   "rasgo",
+   "Spool_Holder",
+   "Spool Holder",
+   -143,
+   -97
+  ],
+  [
+   "rasgo",
+   "M5x16 BHCS",
+   "Spool Holder",
+   -125,
+   -115
+  ]
+ ],
+ "traseira/esquerda": [
+  [
+   "rasgo",
+   "B_Drive_Frame_Upper",
+   "Gantry",
+   -160,
+   -145
+  ],
+  [
+   "rasgo",
+   "B_Drive_Frame_Lower",
+   "Gantry",
+   -175,
+   -158
+  ],
+  [
+   "rasgo",
+   "Skirt_Corner_A",
+   "Skirt",
+   -520,
+   -519
+  ]
+ ],
+ "traseira/meio": [
+  [
+   "fora",
+   "Filter Element",
+   "Exhaust Filter Assembly",
+   -137,
+   -72
+  ],
+  [
+   "fora",
+   "VHB Mount tape",
+   "Exhaust Filter Assembly",
+   -184,
+   -78
+  ],
+  [
+   "fora",
+   "Exhaust Housing",
+   "Exhaust Filter Assembly",
+   -184,
+   -40
+  ],
+  [
+   "fora",
+   "Exhaust Grill",
+   "Exhaust Filter Assembly",
+   -78,
+   -40
+  ],
+  [
+   "fora",
+   "PTFE_Tube (4x3mm)",
+   "Exhaust Filter Assembly",
+   -104,
+   -20
+  ],
+  [
+   "fora",
+   "6020 Fan",
+   "Exhaust Filter Assembly",
+   -198,
+   -142
+  ],
+  [
+   "fora",
+   "6020 Fan",
+   "Exhaust Filter Assembly",
+   -189,
+   -143
+  ],
+  [
+   "rasgo",
+   "A_Belt",
+   "Gantry",
+   -158,
+   -152
+  ],
+  [
+   "rasgo",
+   "B_Belt",
+   "Gantry",
+   -168,
+   -162
+  ],
+  [
+   "rasgo",
+   "Z_Carriage_Rear_3-Hole (Generic)",
+   "Z Assembly",
+   -246,
+   -206
+  ],
+  [
+   "rasgo",
+   "Z_Carriage_Rear_2-hole (IGUS)",
+   "Z Assembly",
+   -246,
+   -206
+  ],
+  [
+   "rasgo",
+   "Z_Motor_Mount_Rear",
+   "Z Assembly",
+   -520,
+   -492
+  ],
+  [
+   "rasgo",
+   "250_Rear",
+   "Skirt",
+   -520,
+   -519
+  ],
+  [
+   "rasgo",
+   "300_Rear",
+   "Skirt",
+   -520,
+   -519
+  ],
+  [
+   "rasgo",
+   "350_Rear",
+   "Skirt",
+   -520,
+   -519
+  ],
+  [
+   "rasgo",
+   "M5x16 BHCS",
+   "Frame",
+   -505,
+   -486
+  ],
+  [
+   "rasgo",
+   "Exhaust Grill",
+   "Exhaust Filter Assembly",
+   -78,
+   -40
+  ],
+  [
+   "rasgo",
+   "PTFE_Tube (4x3mm)",
+   "Exhaust Filter Assembly",
+   -104,
+   -20
+  ]
+ ],
+ "traseira/base": [
+  [
+   "rasgo",
+   "Z_Motor_Mount_Rear",
+   "Z Assembly",
+   -238,
+   -152
+  ],
+  [
+   "rasgo",
+   "M5x16 BHCS",
+   "Frame",
+   -24,
+   -5
+  ],
+  [
+   "rasgo",
+   "M5x16 BHCS",
+   "Frame",
+   -385,
+   -366
+  ]
+ ],
+ "traseira/topo": [
+  [
+   "fora",
+   "Exhaust Housing",
+   "Exhaust Filter Assembly",
+   -272,
+   -118
+  ],
+  [
+   "fora",
+   "Exhaust Grill",
+   "Exhaust Filter Assembly",
+   -272,
+   -118
+  ],
+  [
+   "fora",
+   "M5x10 BHCS",
+   "Exhaust Filter Assembly",
+   -137,
+   -127
+  ],
+  [
+   "fora",
+   "Exhaust Mount",
+   "Exhaust Filter Assembly",
+   -142,
+   -122
+  ],
+  [
+   "fora",
+   "PTFE_Tube (4x3mm)",
+   "Exhaust Filter Assembly",
+   -274,
+   -89
+  ],
+  [
+   "fora",
+   "M5x10 BHCS",
+   "Exhaust Filter Assembly",
+   -263,
+   -253
+  ],
+  [
+   "fora",
+   "Exhaust Mount (1)",
+   "Exhaust Filter Assembly",
+   -268,
+   -248
+  ],
+  [
+   "fora",
+   "Bowden Tube Holder",
+   "Bowden Tube Holder",
+   -121,
+   -97
+  ],
+  [
+   "rasgo",
+   "M5x16 BHCS",
+   "Frame",
+   -24,
+   -5
+  ],
+  [
+   "rasgo",
+   "M5x16 BHCS",
+   "Frame",
+   -385,
+   -366
+  ],
+  [
+   "rasgo",
+   "M5x10 BHCS",
+   "Exhaust Filter Assembly",
+   -137,
+   -127
+  ],
+  [
+   "rasgo",
+   "PTFE_Tube (4x3mm)",
+   "Exhaust Filter Assembly",
+   -274,
+   -89
+  ],
+  [
+   "rasgo",
+   "M5x10 BHCS",
+   "Exhaust Filter Assembly",
+   -263,
+   -253
+  ]
+ ],
+ "topo/direita": [
+  [
+   "rasgo",
+   "M5x16 BHCS",
+   "Frame",
+   5,
+   24
+  ],
+  [
+   "rasgo",
+   "M5x16 BHCS",
+   "Frame",
+   366,
+   385
+  ]
+ ],
+ "topo/esquerda": [
+  [
+   "rasgo",
+   "M5x16 BHCS",
+   "Frame",
+   366,
+   385
+  ],
+  [
+   "rasgo",
+   "M5x16 BHCS",
+   "Frame",
+   5,
+   24
+  ]
+ ],
+ "topo/frente": [
+  [
+   "rasgo",
+   "M5x16 BHCS",
+   "Frame",
+   -24,
+   -5
+  ],
+  [
+   "rasgo",
+   "M5x16 BHCS",
+   "Frame",
+   -385,
+   -366
+  ]
+ ],
+ "topo/tras": [
+  [
+   "fora",
+   "PTFE_Tube (4x3mm)",
+   "Exhaust Filter Assembly",
+   -274,
+   -89
+  ],
+  [
+   "fora",
+   "M3x8 SHCS",
+   "Bowden Tube Holder",
+   -112,
+   -106
+  ],
+  [
+   "fora",
+   "Bowden Tube Holder",
+   "Bowden Tube Holder",
+   -121,
+   -97
+  ],
+  [
+   "rasgo",
+   "M5x16 BHCS",
+   "Frame",
+   -24,
+   -5
+  ],
+  [
+   "rasgo",
+   "M5x16 BHCS",
+   "Frame",
+   -385,
+   -366
+  ],
+  [
+   "rasgo",
+   "PTFE_Tube (4x3mm)",
+   "Exhaust Filter Assembly",
+   -274,
+   -89
+  ],
+  [
+   "rasgo",
+   "M3x8 SHCS",
+   "Bowden Tube Holder",
+   -112,
+   -106
+  ],
+  [
+   "rasgo",
+   "M3 Hammerhead T-Nut",
+   "Bowden Tube Holder",
+   -112,
+   -106
+  ],
+  [
+   "rasgo",
+   "Bowden Tube Holder",
+   "Bowden Tube Holder",
+   -121,
+   -97
+  ]
+ ],
+ "frente/direita": [
+  [
+   "rasgo",
+   "Front_Idler_A",
+   "Gantry",
+   -175,
+   -155
+  ],
+  [
+   "rasgo",
+   "Front_Idler_B",
+   "Gantry",
+   -157,
+   -145
+  ],
+  [
+   "rasgo",
+   "Z_Motor_Mount_Right",
+   "Z Assembly",
+   -504,
+   -492
+  ],
+  [
+   "rasgo",
+   "Skirt_Corner_A",
+   "Skirt",
+   -520,
+   -519
+  ]
+ ],
+ "frente/esquerda": [
+  [
+   "rasgo",
+   "Front_Idler_A",
+   "Gantry",
+   -165,
+   -145
+  ],
+  [
+   "rasgo",
+   "Front_Idler_B",
+   "Gantry",
+   -175,
+   -163
+  ],
+  [
+   "rasgo",
+   "Z_Motor_Mount_Left",
+   "Z Assembly",
+   -504,
+   -492
+  ],
+  [
+   "rasgo",
+   "Skirt_Corner_B",
+   "Skirt",
+   -520,
+   -519
+  ]
+ ],
+ "frente/meio": [
+  [
+   "rasgo",
+   "LCD Case Hinge",
+   "Skirt",
+   -520,
+   -504
+  ]
+ ],
+ "frente/base": [
+  [
+   "rasgo",
+   "LCD Case Hinge",
+   "Skirt",
+   -211,
+   -179
+  ],
+  [
+   "rasgo",
+   "M5x16 BHCS",
+   "Frame",
+   -24,
+   -5
+  ],
+  [
+   "rasgo",
+   "M5x16 BHCS",
+   "Frame",
+   -385,
+   -366
+  ]
+ ],
+ "frente/topo": [
+  [
+   "rasgo",
+   "M5x16 BHCS",
+   "Frame",
+   -24,
+   -5
+  ],
+  [
+   "rasgo",
+   "M5x16 BHCS",
+   "Frame",
+   -385,
+   -366
+  ]
+ ]
+}

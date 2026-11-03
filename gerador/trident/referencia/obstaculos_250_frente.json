@@ -1,0 +1,23 @@
+{
+ "direita|rasgo|Skirt|Skirt_Corner_A": {
+  "vol": 33.1,
+  "ao_longo": [
+   -521.0,
+   -520.0
+  ]
+ },
+ "esquerda|rasgo|Skirt|Skirt_Corner_B": {
+  "vol": 33.1,
+  "ao_longo": [
+   -521.0,
+   -520.0
+  ]
+ },
+ "meio|rasgo|Skirt|LCD Case Hinge": {
+  "vol": 32.7,
+  "ao_longo": [
+   -521.0,
+   -520.0
+  ]
+ }
+}

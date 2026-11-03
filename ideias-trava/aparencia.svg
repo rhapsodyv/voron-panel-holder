@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="220" viewBox="0 0 680 220">
+<style>.th{font:500 14px Helvetica,Arial,sans-serif;fill:#2C2C2A}.ts{font:400 12px Helvetica,Arial,sans-serif;fill:#5F5E5A}</style>
+<rect width="680" height="220" fill="#FFFFFF"/>
+<g transform="translate(90,10)">
+<rect x="30" y="50" width="160" height="100" fill="#B5D4F4" opacity="0.35"/>
+<rect x="10" y="30" width="180" height="20" rx="2" fill="#AFA9EC" stroke="#534AB7" stroke-width="0.5"/>
+<rect x="10" y="30" width="20" height="120" rx="2" fill="#AFA9EC" stroke="#534AB7" stroke-width="0.5"/>
+<line x1="10" y1="30" x2="30" y2="50" stroke="#534AB7" stroke-width="0.5"/>
+<rect x="38" y="34" width="44" height="12" rx="3" fill="#5DCAA5" stroke="#0F6E56" stroke-width="0.5"/>
+<text class="th" x="100" y="178" text-anchor="middle">A · pega rente no canto</text>
+<text class="ts" x="100" y="196" text-anchor="middle">levantada = liberada</text>
+</g>
+<g transform="translate(370,10)">
+<rect x="30" y="50" width="160" height="100" fill="#B5D4F4" opacity="0.35"/>
+<rect x="10" y="30" width="180" height="20" rx="2" fill="#AFA9EC" stroke="#534AB7" stroke-width="0.5"/>
+<rect x="10" y="30" width="20" height="120" rx="2" fill="#AFA9EC" stroke="#534AB7" stroke-width="0.5"/>
+<line x1="10" y1="30" x2="30" y2="50" stroke="#534AB7" stroke-width="0.5"/>
+<rect x="40" y="36" width="40" height="8" rx="4" fill="#7F77DD"/>
+<rect x="44" y="34" width="12" height="12" rx="3" fill="#5DCAA5" stroke="#0F6E56" stroke-width="0.5"/>
+<text class="th" x="100" y="178" text-anchor="middle">C · lingueta num rasgo</text>
+<text class="ts" x="100" y="196" text-anchor="middle">numa ponta = travado</text>
+</g>
+</svg>

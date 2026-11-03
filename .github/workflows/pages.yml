@@ -1,0 +1,33 @@
+# Publishes the configurator (web/) on GitHub Pages: copies the generator into it (web/empacotar.py, Python only) and
+# uploads the folder. web/pre/, the faces with the default values, is committed: making it takes build123d and minutes
+# (.venv-b3d/bin/python web/motor.py pre-gerar).
+name: Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 web/empacotar.py
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: web
+      - id: deploy
+        uses: actions/deploy-pages@v4

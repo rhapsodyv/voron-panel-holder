@@ -1,0 +1,356 @@
+{
+ "interferencia": {
+  "lateral-direita": {
+   "clip-padrao-h1:1 × frame:barra direita baixo": [
+    0.6644,
+    0.06,
+    "aleta apertando a aba do rasgo"
+   ],
+   "clip-padrao-h2:1 × frame:barra direita baixo": [
+    1.3287,
+    0.06,
+    "aleta apertando a aba do rasgo"
+   ],
+   "clip-padrao-h2:2 × frame:barra direita baixo": [
+    1.3287,
+    0.06,
+    "aleta apertando a aba do rasgo"
+   ],
+   "clip-padrao-h1:2 × frame:barra direita baixo": [
+    0.6644,
+    0.06,
+    "aleta apertando a aba do rasgo"
+   ],
+   "clip-padrao-h1:3 × frame:barra direita cima": [
+    0.6644,
+    0.06,
+    "aleta apertando a aba do rasgo"
+   ],
+   "clip-padrao-h2:3 × frame:barra direita cima": [
+    1.3287,
+    0.06,
+    "aleta apertando a aba do rasgo"
+   ],
+   "clip-padrao-h2:4 × frame:barra direita cima": [
+    1.3287,
+    0.06,
+    "aleta apertando a aba do rasgo"
+   ],
+   "clip-padrao-h1:4 × frame:barra direita cima": [
+    0.6644,
+    0.06,
+    "aleta apertando a aba do rasgo"
+   ],
+   "clip-padrao-v1:1 × frame:poste frente direita": [
+    0.6983,
+    0.06,
+    "aleta apertando a aba do rasgo"
+   ],
+   "clip-padrao-v2:1 × frame:poste frente direita": [
+    1.3965,
+    0.06,
+    "aleta apertando a aba do rasgo"
+   ],
+   "clip-padrao-v2:2 × frame:poste frente direita": [
+    1.3965,
+    0.06,
+    "aleta apertando a aba do rasgo"
+   ],
+   "clip-padrao-v1:2 × frame:poste frente direita": [
+    0.6983,
+    0.06,
+    "aleta apertando a aba do rasgo"
+   ],
+   "clip-padrao-v1:3 × frame:poste trás direita": [
+    0.6983,
+    0.06,
+    "aleta apertando a aba do rasgo"
+   ],
+   "clip-padrao-v2:3 × frame:poste trás direita": [
+    1.3965,
+    0.06,
+    "aleta apertando a aba do rasgo"
+   ],
+   "clip-padrao-v2:4 × frame:poste trás direita": [
+    1.3965,
+    0.06,
+    "aleta apertando a aba do rasgo"
+   ],
+   "clip-padrao-v1:4 × frame:poste trás direita": [
+    0.6983,
+    0.06,
+    "aleta apertando a aba do rasgo"
+   ]
+  },
+  "lateral-esquerda": {
+   "clip-padrao-h1:1 × frame:barra esquerda baixo": [
+    0.6644,
+    0.06,
+    "aleta apertando a aba do rasgo"
+   ],
+   "clip-padrao-h2:1 × frame:barra esquerda baixo": [
+    1.3287,
+    0.06,
+    "aleta apertando a aba do rasgo"
+   ],
+   "clip-padrao-h2:2 × frame:barra esquerda baixo": [
+    1.3287,
+    0.06,
+    "aleta apertando a aba do rasgo"
+   ],
+   "clip-padrao-h1:2 × frame:barra esquerda baixo": [
+    0.6644,
+    0.06,
+    "aleta apertando a aba do rasgo"
+   ],
+   "clip-padrao-h1:3 × frame:barra esquerda cima": [
+    0.6644,
+    0.06,
+    "aleta apertando a aba do rasgo"
+   ],
+   "clip-padrao-h2:3 × frame:barra esquerda cima": [
+    1.3287,
+    0.06,
+    "aleta apertando a aba do rasgo"
+   ],
+   "clip-padrao-h2:4 × frame:barra esquerda cima": [
+    1.3287,
+    0.06,
+    "aleta apertando a aba do rasgo"
+   ],
+   "clip-padrao-h1:4 × frame:barra esquerda cima": [
+    0.6644,
+    0.06,
+    "aleta apertando a aba do rasgo"
+   ],
+   "clip-padrao-v1:1 × frame:poste frente esquerda": [
+    0.6983,
+    0.06,
+    "aleta apertando a aba do rasgo"
+   ],
+   "clip-padrao-v2:1 × frame:poste frente esquerda": [
+    1.3965,
+    0.06,
+    "aleta apertando a aba do rasgo"
+   ],
+   "clip-padrao-v2:2 × frame:poste frente esquerda": [
+    1.3965,
+    0.06,
+    "aleta apertando a aba do rasgo"
+   ],
+   "clip-padrao-v1:2 × frame:poste frente esquerda": [
+    0.6983,
+    0.06,
+    "aleta apertando a aba do rasgo"
+   ],
+   "clip-padrao-v1:3 × frame:poste trás esquerda": [
+    0.6983,
+    0.06,
+    "aleta apertando a aba do rasgo"
+   ],
+   "clip-padrao-v2:3 × frame:poste trás esquerda": [
+    1.3965,
+    0.06,
+    "aleta apertando a aba do rasgo"
+   ],
+   "clip-padrao-v2:4 × frame:poste trás esquerda": [
+    1.3965,
+    0.06,
+    "aleta apertando a aba do rasgo"
+   ],
+   "clip-padrao-v1:4 × frame:poste trás esquerda": [
+    0.6983,
+    0.06,
+    "aleta apertando a aba do rasgo"
+   ]
+  },
+  "porta-direita": {},
+  "porta-esquerda": {},
+  "traseira": {
+   "clip-padrao-h2:3 × passa-bowden:1": [
+    8.1928,
+    0.05,
+    "nervura na peça que faz as vezes da chapa"
+   ],
+   "clip-padrao-h2:4 × passa-bowden:1": [
+    8.1928,
+    0.05,
+    "nervura na peça que faz as vezes da chapa"
+   ],
+   "clip-padrao-h1:1 × frame:barra trás baixo": [
+    0.6644,
+    0.06,
+    "aleta apertando a aba do rasgo"
+   ],
+   "clip-padrao-h2:1 × frame:barra trás baixo": [
+    1.3287,
+    0.06,
+    "aleta apertando a aba do rasgo"
+   ],
+   "clip-padrao-h2:2 × frame:barra trás baixo": [
+    1.3287,
+    0.06,
+    "aleta apertando a aba do rasgo"
+   ],
+   "clip-padrao-h1:2 × frame:barra trás baixo": [
+    0.6644,
+    0.06,
+    "aleta apertando a aba do rasgo"
+   ],
+   "clip-padrao-h1:3 × frame:barra trás cima": [
+    0.6644,
+    0.06,
+    "aleta apertando a aba do rasgo"
+   ],
+   "clip-padrao-h2:3 × frame:barra trás cima": [
+    1.3287,
+    0.06,
+    "aleta apertando a aba do rasgo"
+   ],
+   "clip-padrao-h2:4 × frame:barra trás cima": [
+    1.3287,
+    0.06,
+    "aleta apertando a aba do rasgo"
+   ],
+   "clip-padrao-h1:4 × frame:barra trás cima": [
+    0.6644,
+    0.06,
+    "aleta apertando a aba do rasgo"
+   ],
+   "clip-padrao-v1:1 × frame:poste trás direita": [
+    0.6983,
+    0.06,
+    "aleta apertando a aba do rasgo"
+   ],
+   "clip-padrao-v2:1 × frame:poste trás direita": [
+    1.3965,
+    0.06,
+    "aleta apertando a aba do rasgo"
+   ],
+   "clip-padrao-v2:2 × frame:poste trás direita": [
+    1.3965,
+    0.06,
+    "aleta apertando a aba do rasgo"
+   ],
+   "clip-padrao-v1:2 × frame:poste trás direita": [
+    0.6983,
+    0.06,
+    "aleta apertando a aba do rasgo"
+   ],
+   "clip-padrao-v1:3 × frame:poste trás esquerda": [
+    0.6983,
+    0.06,
+    "aleta apertando a aba do rasgo"
+   ],
+   "clip-padrao-v2:3 × frame:poste trás esquerda": [
+    1.3965,
+    0.06,
+    "aleta apertando a aba do rasgo"
+   ],
+   "clip-padrao-v2:4 × frame:poste trás esquerda": [
+    1.3965,
+    0.06,
+    "aleta apertando a aba do rasgo"
+   ],
+   "clip-padrao-v1:4 × frame:poste trás esquerda": [
+    0.6983,
+    0.06,
+    "aleta apertando a aba do rasgo"
+   ]
+  },
+  "topo": {
+   "clip-padrao-h1:1 × frame:barra direita cima": [
+    0.6644,
+    0.06,
+    "aleta apertando a aba do rasgo"
+   ],
+   "clip-padrao-h2:1 × frame:barra direita cima": [
+    1.3287,
+    0.06,
+    "aleta apertando a aba do rasgo"
+   ],
+   "clip-padrao-h2:2 × frame:barra direita cima": [
+    1.3287,
+    0.06,
+    "aleta apertando a aba do rasgo"
+   ],
+   "clip-padrao-h1:2 × frame:barra direita cima": [
+    0.6644,
+    0.06,
+    "aleta apertando a aba do rasgo"
+   ],
+   "clip-padrao-h1:3 × frame:barra esquerda cima": [
+    0.6644,
+    0.06,
+    "aleta apertando a aba do rasgo"
+   ],
+   "clip-padrao-h2:3 × frame:barra esquerda cima": [
+    1.3287,
+    0.06,
+    "aleta apertando a aba do rasgo"
+   ],
+   "clip-padrao-h2:4 × frame:barra esquerda cima": [
+    1.3287,
+    0.06,
+    "aleta apertando a aba do rasgo"
+   ],
+   "clip-padrao-h1:4 × frame:barra esquerda cima": [
+    0.6644,
+    0.06,
+    "aleta apertando a aba do rasgo"
+   ],
+   "clip-padrao-h1:5 × frame:barra trás cima": [
+    0.6644,
+    0.06,
+    "aleta apertando a aba do rasgo"
+   ],
+   "clip-padrao-h2:5 × frame:barra trás cima": [
+    1.3287,
+    0.06,
+    "aleta apertando a aba do rasgo"
+   ],
+   "clip-padrao-h2:6 × frame:barra trás cima": [
+    1.3287,
+    0.06,
+    "aleta apertando a aba do rasgo"
+   ],
+   "clip-padrao-h1:6 × frame:barra trás cima": [
+    0.6644,
+    0.06,
+    "aleta apertando a aba do rasgo"
+   ],
+   "clip-padrao-h1:7 × frame:barra frente cima": [
+    0.6644,
+    0.06,
+    "aleta apertando a aba do rasgo"
+   ],
+   "clip-padrao-h2:7 × frame:barra frente cima": [
+    1.3287,
+    0.06,
+    "aleta apertando a aba do rasgo"
+   ],
+   "clip-padrao-h2:8 × frame:barra frente cima": [
+    1.3287,
+    0.06,
+    "aleta apertando a aba do rasgo"
+   ],
+   "clip-padrao-h1:8 × frame:barra frente cima": [
+    0.6644,
+    0.06,
+    "aleta apertando a aba do rasgo"
+   ]
+  }
+ },
+ "entre_faces": {},
+ "giro_porta": {
+  "porta-direita 15°": {},
+  "porta-direita 45°": {},
+  "porta-direita 90°": {},
+  "porta-direita 110°": {},
+  "porta-esquerda 15°": {},
+  "porta-esquerda 45°": {},
+  "porta-esquerda 90°": {},
+  "porta-esquerda 110°": {}
+ },
+ "tempo": 43
+}
