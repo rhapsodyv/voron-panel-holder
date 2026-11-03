@@ -62,7 +62,8 @@ PARAMS = [
 
     ('projeto', 'cover_corner', '120 mm', 'mm', 'Perna dos cantos em L das tampas (canto, meio, canto em cada borda)'),
     ('projeto', 'clip_end_gap', '3 mm', 'mm', 'Os clips começam e terminam essa distância antes da borda do frame'),
-    ('projeto', 'door_corner', '85 mm', 'mm', 'Portas: perna dos cantos em L'),
+    ('projeto', 'door_corner', '85 mm', 'mm', 'Portas: perna horizontal dos cantos em L (a porta tem metade da largura: com 120, a tampa do meio de cima e de baixo teria 15 mm)'),
+    ('projeto', 'door_corner_v', 'cover_corner', 'mm', 'Portas: perna vertical dos cantos em L, a das laterais: as emendas da porta e da lateral se alinham na dobradiça (era door_corner, 85, até 2026-11-03)'),
     ('projeto', 'door_gap', '0.5 mm', 'mm', 'Portas: folga entre as duas portas no centro (vedação: numa fresta estreita o vazamento cai com o cubo da folga)'),
     ('projeto', 'door_width', 'frame_width / 2 - door_gap / 2', 'mm', 'Portas: largura de cada porta, da borda da dobradiça ao centro'),
     ('projeto', 'door_clip_run', 'door_width - 2 * frame_size', 'mm', 'Portas: clips de cima e de baixo de cada porta (param frame_size antes do poste e do clip em U do centro)'),

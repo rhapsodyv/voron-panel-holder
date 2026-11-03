@@ -42,8 +42,8 @@ PECAS = {
     'clip-u-centro-v2': ('clip-u-fora', V2),
     'tampa-porta-topo-h': ('tampa-parede', 'door_width - 2 * door_corner'),
     'tampa-porta-base-h': ('tampa-base', 'door_width - 2 * door_corner'),
-    'tampa-porta-dobradica-v': ('tampa-parede-dobradica', 'body_height - 2 * door_corner'),
-    'tampa-porta-centro-v': ('tampa-u-fora', 'body_height - 2 * door_corner'),   # with the handle (construir.puxador)
+    'tampa-porta-dobradica-v': ('tampa-parede-dobradica', 'body_height - 2 * door_corner_v'),
+    'tampa-porta-centro-v': ('tampa-u-fora', 'body_height - 2 * door_corner_v'),   # with the handle (construir.puxador)
 }
 
 # leg = (cover profile, clip profile cut out, clip offset along s, where the clips start, scarf joint)
@@ -51,11 +51,12 @@ _PAREDE_H = ('tampa-parede', 'clip-padrao', '0 mm', 'frame_size', True)     # ho
 _BASE_H = ('tampa-base', 'clip-padrao', '0 mm', 'frame_size', True)         # bottom edge, no wedge
 _PAREDE_V = ('tampa-parede', 'clip-padrao', '0 mm', 'clip_end_gap', True)   # vertical edge
 
-# doors: corner legs door_corner long; horizontal leg A, vertical leg B in the -hv orientation
+# doors: horizontal corner legs door_corner long, vertical ones door_corner_v (as the side panels'); horizontal leg A,
+# vertical leg B in the -hv orientation
 _P_TOPO = ('tampa-parede', 'clip-porta', '0 mm', 'frame_size', True, 'door_corner')
 _P_BASE = ('tampa-base', 'clip-porta', '0 mm', 'frame_size', True, 'door_corner')
-_P_DOBRA = ('tampa-parede-dobradica', 'clip-porta-dobradica', '0 mm', 'clip_end_gap', True, 'door_corner')
-_P_CENTRO = ('tampa-u-fora-canto', 'clip-u-fora', '0 mm', 'clip_end_gap', True, 'door_corner')
+_P_DOBRA = ('tampa-parede-dobradica', 'clip-porta-dobradica', '0 mm', 'clip_end_gap', True, 'door_corner_v')
+_P_CENTRO = ('tampa-u-fora-canto', 'clip-u-fora', '0 mm', 'clip_end_gap', True, 'door_corner_v')
 _FAMILIAS = {   # corner families of the doors: (horizontal leg, vertical leg)
     'canto-porta-dobra-base': (_P_BASE, _P_DOBRA),
     'canto-porta-dobra-topo': (_P_TOPO, _P_DOBRA),
